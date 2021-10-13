@@ -1,6 +1,6 @@
 👋 Hola, soy @dabelgarcia
 - 👀 Me interesa el futbol, la programación, las peliculas
-- 🌱 Actualmente estoy aprendiendo html, css, javascript
+- 🌱 Actualmente estoy aprendiendo html, css, javascript, Java
 - 💞️ Estoy buscando colaborar en ...
 - 📫 Cómo contactarme ...
 
