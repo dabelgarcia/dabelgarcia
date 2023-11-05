@@ -1,7 +1,7 @@
 👋 Hola, soy Dario Abel Garcia
-- 👀 Me interesa el futbol, la programación, las peliculas
+- 👀 Me interesa el futbol y las peliculas
 - 🌎 🙋🏻‍♂️ Me considero una persona orientada a resultados, que siempre está en búsqueda de conocimientos y experiencias profesionales desafiantes.
-- 👨🏻‍💻 Apasionado por la programación, los lenguajes y por tener grandes tareas exigentes en mi lista de tareas pendientes.
+- 👨🏻‍💻 Apasionado por la programación, los lenguajes y para poder seguir creciendo en habilidades.
 - 🌱 Actualmente estoy aprendiendo TypeScript, Scrum y React Native
 - 📫 Cómo contactarme: www.linkedin/in/darioagarcia - fullstackmendoza@gmail.com
 <h3 align="left">Languages and Tools:</h3>
